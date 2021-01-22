@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="select_avi_label">Select Avatar</string>
+    <string name="save_button_label">Save</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="tv_name_label">Name:</string>
+    <string name="btn_edit_label">edit</string>
+</resources>
